@@ -1,4 +1,4 @@
-<h3 align="left">Hi, my name is Nicolas. I have been working as a web and mobile developer for over 3 years, and I am currently in the SAP field as an ABAP developer.</h3>
+<h3 align="left">Hi, my name is Nicolas. I have been working as a web and mobile developer for over 3 years, and I am currently in the SAP field as an ABAP/FIORI developer.</h3>
 
 ###
 
